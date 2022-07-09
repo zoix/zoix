@@ -30,7 +30,7 @@ In the last few months, I have been exploring and pretty much falling in love wi
 
 [![TypeScript](https://img.shields.io/badge/-typescript-%23007acc?&style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-javascript-%23fcdc00?&style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![C Sharp](https://img.shields.io/badge/-c%20sharp-%2305940d?&style=for-the-badge&logo=csharp&logoColor=white)](#)
+[![C Sharp](https://img.shields.io/badge/-c%20sharp-%23512bd4?&style=for-the-badge&logo=csharp&logoColor=white)](#)
 
 ##### Frameworks and Libraries I primarily use
 
