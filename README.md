@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Hello! I am an open-source enthusiast software engineer. I am passionate about everything that has to do with software & development, including web3, artificial intelligence, machine learning, and augmented and virtual reality.
 
-In the last few months, I have been exploring and pretty much falling in love with [Urbit](https://urbit.org) and exploring how to integrate different tools into the ecosystem. If you are in the network, you can find me as `~master-midref`.
+In the last few months, I have been exploring and pretty much falling in love with [Urbit](https://urbit.org) and finding ways to integrate different tools into the ecosystem. If you are in the network, you can find me as `~master-midref`.
 
 ##### Languages I primarily use
 
