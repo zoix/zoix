@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Hello! I am an open-source enthusiast software engineer. I am passionate about everything that has to do with software & development, including web3, artificial intelligence, machine learning, and augmented and virtual reality.
 
-In the last few months, I have been exploring and pretty much falling in love with [Urbit](https://urbit.org) and finding ways to integrate different tools into the ecosystem. If you are in the network, you can find me as `~master-midref`.
+In the last few months, I have been exploring and pretty much falling in love with [Urbit](https://urbit.org), and finding ways to integrate different tools into the ecosystem. If you are in the network, you can find me as `~master-midref`.
 
 ##### Languages I primarily use
 
@@ -48,7 +48,7 @@ In the last few months, I have been exploring and pretty much falling in love wi
 
 ## 🎓 What am I learning right now?
 
-I am currently reading [Refactoring: Improving the Design of Existing Code][book] and exploring the process of large-scale application refactoring. It is a very polished book -like all the books from Margin Fowler- that explains best practices and appropriate steps, mechanics, tradeoffs, and obstacles to refactoring.
+I am currently reading [Refactoring: Improving the Design of Existing Code][book] and exploring the process of large-scale application refactoring. It is a very polished book -like all the books from Martin Fowler- that explains best practices and appropriate steps, mechanics, tradeoffs, and obstacles to refactoring.
 
 ## 🧙‍ What is my current side quest?
 
